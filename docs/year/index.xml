@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Year on Tympon Musiques</title>
+    <link>https://github.com/drient/tymponblog.git/year/</link>
+    <description>Recent content in Year on Tympon Musiques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2024 09:41:00 +0200</lastBuildDate><atom:link href="https://github.com/drient/tymponblog.git/year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>https://github.com/drient/tymponblog.git/year/2024/</link>
+      <pubDate>Thu, 13 Jun 2024 09:41:00 +0200</pubDate>
+      
+      <guid>https://github.com/drient/tymponblog.git/year/2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1981</title>
+      <link>https://github.com/drient/tymponblog.git/year/1981/</link>
+      <pubDate>Wed, 12 Jun 2024 18:50:05 +0200</pubDate>
+      
+      <guid>https://github.com/drient/tymponblog.git/year/1981/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
