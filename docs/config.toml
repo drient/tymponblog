@@ -1,0 +1,13 @@
+baseURL = 'https://github.com/drient/tymponblog'
+languageCode = 'en-us'
+title = 'Tympon Musiques'
+author = '<Drien>'
+theme = "vinyl-records-collection-theme"
+publishDir = 'docs'
+
+[taxonomies]
+  artist = 'artist'
+  genres = 'genres'
+  label = 'label'
+  year = 'year'
+  format = 'format'
