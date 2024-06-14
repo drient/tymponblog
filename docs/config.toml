@@ -11,3 +11,9 @@ publishDir = 'docs'
   label = 'label'
   year = 'year'
   format = 'format'
+
+[module]
+
+  [[module.imports]]
+    path = "github.com/Wivik/vinyl-records-collection-theme"
+    disable=false
