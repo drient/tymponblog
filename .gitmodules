@@ -1,3 +1,9 @@
 [submodule "docs/vinyl-records-collection-theme"]
 	path = docs/vinyl-records-collection-theme
 	url = https://github.com/Wivik/vinyl-records-collection-theme
+[submodule "themes/vinyl-records-collection-theme"]
+	path = themes/vinyl-records-collection-theme
+	url = https://github.com/Wivik/vinyl-records-collection-theme
+[submodule "docs/themes/vinyl-records-collection-theme"]
+	path = docs/themes/vinyl-records-collection-theme
+	url = https://github.com/Wivik/vinyl-records-collection-theme
